@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b4ef2914-b52a-46c2-b5e1-cf95e445b365/microsoft.web/sites/subscriptions/b4ef2914-b52a-46c2-b5e1-cf95e445b365/resourceGroups/web-api/providers/Microsoft.Web/sites/tfsantosapi",
+    "appService.deploySubpath": "dist"
+}
